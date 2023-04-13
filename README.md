@@ -1,4 +1,4 @@
-# evidence_lyzi
+# pujcovna_lyzi
 
 Projekt PujcovnaLyzi a v něm vytvořte dvě třídy: Lyze a Zakaznik.
 
