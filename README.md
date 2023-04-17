@@ -2,7 +2,7 @@
 
 Projekt PujcovnaLyzi a v něm vytvořte dvě třídy: Lyze a Zakaznik.
 
-Třída Zakaznik bude mít tři datové atributy, všechny typu String: jmeno, prijmeni a adresa. Napište konstruktor, kterým 
+Třída Zakaznik bude mít tři datové atributy, všechny typu String: jmeno, prijmeni a Integer: věk. Napište konstruktor, kterým 
 zadáte všechny tři údaje, getry na všechny tři údaje a setr na adresu. Metodu toString() naimplementujte tak, že bude vracet jméno a příjmení zákazníka.
 
 Třída Lyže bude mít atributy inventarniCislo typu int, typLyzi typu String, delka typu int a zakaznik typu Zakaznik. 
